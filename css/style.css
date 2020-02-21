@@ -5,13 +5,13 @@
 }
 
 .imagens {
-    width: 100%;
+    width: 80%;
     margin-top: 20px;
     display: flex;
 }
 
 .cartao {
-    width: 45%;
+    width: 35%;
     padding: 10px;
     background-color: "#DCDCDC";
     border: 1px solid black;
