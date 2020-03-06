@@ -1,29 +1,23 @@
-/* minha folha de estilo */
-.contGal {
+.conGal{
     width: 80%;
     margin: 0 auto;
 }
-
-.imagens {
+.imagens{
     width: 80%;
     margin-top: 20px;
     display: flex;
 }
-
-.cartao {
+.cartao{
     width: 35%;
     padding: 10px;
-    background-color: "#DCDCDC";
+    background-color: aqua;
     border: 1px solid black;
 }
-
-.cartao img {
+.cartao img{
     width: 100%;
 }
-
-.cartao p {
+.cartao p{
     font-size: 16px;
-    color: "#4682B4";
+    color: #4682B4;
     margin-top: 15px;
 }
-
